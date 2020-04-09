@@ -37,7 +37,7 @@ body {
   font-weight: 300;
   border-bottom: none !important;
   letter-spacing: 0;
-  font-family: 'Fredoka One', cursive;
+  font-family: 'Fredoka One', sans-serif;
 }
 
 .title:before {
