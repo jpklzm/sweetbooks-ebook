@@ -1,5 +1,9 @@
+html, body{
+  height: 100%;
+}
+
 body {
-  background: url(./footer-bg.png) #00d1e2 no-repeat center bottom;
+  background: url(./footer-bg.png) #00d1e2 no-repeat center;
   background-size: 100% auto;
   overflow-x: hidden;
 }
